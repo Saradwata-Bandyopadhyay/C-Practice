@@ -1,2 +1,2 @@
-# cprograms
+# C Practice
 C programming repository
